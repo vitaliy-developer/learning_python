@@ -42,3 +42,20 @@
 # for i in ingredients:
 #     print('%s %s' % (x, i))
 #     x = x + 1
+
+# fname = 111
+# lname = 222
+# def testfunc(fname, lname):
+#     print('Привет, %s %s' % (fname, lname))
+
+# firstname = 'Джо'
+# lastname = 'Робертсон'
+# def testfunc(firstname, lastname):
+#     print('Привет, %s %s' % (firstname, lastname))
+
+
+# def variable_test():
+#     first_variable = 10
+#     second_variable = 20
+#     return first_variable * second_variable
+# print(variable_test())
